@@ -65,8 +65,6 @@ Core systems do not require modification for common customizations.
 - Troubleshooting section
 - License and commercial usage terms
 
-Music by Arseniy Popov is included and cleared for commercial use within finished products.
-
 ---
 
-Fruit Merge Kit provides a structured foundation for developers who value clean architecture, extensibility, and production stability.
+Merge Core Kit provides a structured foundation for developers who value clean architecture, extensibility, and production stability.
