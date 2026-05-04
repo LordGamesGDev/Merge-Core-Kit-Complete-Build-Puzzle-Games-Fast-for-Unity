@@ -1,7 +1,7 @@
-# 🎮 Fruit Merge Kit — Complete 2D Game Template
+# 🧩 Merge Core Kit – Build Puzzle Games Fast
 **Production-ready • Scalable Architecture • Cross-Platform Support**
 
-Fruit Merge Kit is a fully functional, extensible 2D merge game template built for Unity. Inspired by the popular physics-based merge genre, it provides a clean, modular foundation for building commercial-quality games without rewriting core systems.
+Merge Core Kit is a fully functional, extensible 2D merge game template built for Unity. Inspired by the popular physics-based merge genre, it provides a clean, modular foundation for building commercial-quality games without rewriting core systems.
 
 This is not a prototype. It is a structured, maintainable framework designed for real production use.
 
