@@ -14,14 +14,13 @@ This is not a prototype. It is a structured, maintainable framework designed for
 - Generic object pooling system to eliminate runtime allocations and GC spikes
 - ScriptableObject-based data pipeline for content-driven design
 - Cross-platform input system (Mouse, Touch, Keyboard)
-- DOTween-powered UI animations
+- Juicy animations and modern UI
 - Audio system with pitch scaling based on merge level
 - Persistent scoring and settings via PlayerPrefs
 - Designed for PC, macOS, iOS, Android, and WebGL
 
 **Requirements:**
 - Unity 2022.3 LTS or newer
-- DOTween
 - TextMeshPro
 
 ---
